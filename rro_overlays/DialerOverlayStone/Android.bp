@@ -4,6 +4,6 @@
 //
 
 runtime_resource_overlay {
-    name: "SystemUIOverlayTarget",
-    vendor: true,
+    name: "DialerOverlayStone",
+    product_specific: true,
 }
